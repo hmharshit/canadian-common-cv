@@ -1,0 +1,1 @@
+import ccv.views.posts

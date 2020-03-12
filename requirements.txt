@@ -1,0 +1,11 @@
+alembic
+Flask
+Flask-API
+flask-marshmallow
+Flask-Migrate
+Flask-SQLAlchemy
+SQLAlchemy
+marshmallow-sqlalchemy
+pytz
+flask-admin
+flask_script
